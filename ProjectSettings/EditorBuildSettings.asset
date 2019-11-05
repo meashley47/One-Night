@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/0 Index.unity
+    guid: d499bf65c9f5f45a7875c59407336c88
+  - enabled: 1
+    path: Assets/Scenes/1 Role Selection.unity
+    guid: fd9abbe1dd03a442e9cce244547e5627
+  - enabled: 1
+    path: Assets/Scenes/2 AssigningRoles.unity
+    guid: eb0c0406399fb4613b05239516014514
+  - enabled: 1
+    path: Assets/Scenes/3 Start Game.unity
+    guid: 9d4703ef37e2e402b81a90f65f460b01
+  - enabled: 1
+    path: Assets/Scenes/4 Close Your Eyes.unity
+    guid: 4c0201b72775e42289a94e36daf64623
+  - enabled: 1
+    path: Assets/Scenes/5 Doppel.unity
+    guid: 3a41112a0ceb3466195ebb6fdb69c70f
+  - enabled: 1
+    path: Assets/Scenes/6 Doppel Minion.unity
+    guid: aa43eaed7482b4375a09af17897b3a2d
+  - enabled: 1
+    path: Assets/Scenes/7 Doppel Minion CE.unity
+    guid: 0cd0ece3de8794a9ebf420ce28021cff
+  - enabled: 1
+    path: Assets/Scenes/8 Doppel CE.unity
+    guid: 09ed07bd1fb624406bd1e0eab7097a31
+  - enabled: 1
+    path: Assets/Scenes/9 Werewolves.unity
+    guid: c59913dfd06954e228ce7a77943eb755
+  - enabled: 1
+    path: Assets/Scenes/10 Werewolves CE.unity
+    guid: fbf1b8addea704fdda08a84a09edb7cd
+  - enabled: 1
+    path: Assets/Scenes/11 Minion.unity
+    guid: 730d96b4c383b44bb82261c6425ac02f
+  - enabled: 1
+    path: Assets/Scenes/12 Minion CE.unity
+    guid: 9ee0dd1bc96824a10b57d1c81c69b12e
+  - enabled: 1
+    path: Assets/Scenes/13 Mason.unity
+    guid: 03559635929a04ad6b7dd0fd3d862ea8
+  - enabled: 1
+    path: Assets/Scenes/14 Mason CE.unity
+    guid: 54d4bc7589b0841c49259affcc84b37b
+  - enabled: 1
+    path: Assets/Scenes/15 Seer.unity
+    guid: 167b2e44625f941a287e1792d108adba
+  - enabled: 1
+    path: Assets/Scenes/16 Seer CE.unity
+    guid: 565601b0360db4d339522ec261109a5d
+  - enabled: 1
+    path: Assets/Scenes/17 Robber.unity
+    guid: 4651d413ac6e14e01867d8f1866db2ed
+  - enabled: 1
+    path: Assets/Scenes/18 Robber CE.unity
+    guid: 1b3c476abea2447d0bf0e11896e9e0ca
+  - enabled: 1
+    path: Assets/Scenes/19 Troublemaker.unity
+    guid: 2f41a793e93744543a495e4e9ae00e87
+  - enabled: 1
+    path: Assets/Scenes/20 Troublemaker CE.unity
+    guid: f8a96857fe9424aa0a3a9730a481d5ea
+  - enabled: 1
+    path: Assets/Scenes/21 Drunk.unity
+    guid: e85cd290004eb435e959cf077ac9bafc
+  - enabled: 1
+    path: Assets/Scenes/22 Drunk CE.unity
+    guid: 5658c71fe29484dc6b89ccb3a7327d85
+  - enabled: 1
+    path: Assets/Scenes/23 Insomniac.unity
+    guid: ec5f1b12f3129434183b1a43efd145aa
+  - enabled: 1
+    path: Assets/Scenes/24 Insomniac CE.unity
+    guid: 5c6b64abe4fc8454ebbeb50afca1af16
+  - enabled: 1
+    path: Assets/Scenes/25 Doppel Insom.unity
+    guid: f42e782ea91444dd2a1acc3ba4782074
+  - enabled: 1
+    path: Assets/Scenes/26 Doppel CE.unity
+    guid: 660b9113acf6b4ac795ba3fd13740a40
+  - enabled: 1
+    path: Assets/Scenes/27 Wake Up.unity
+    guid: 1a2f040e22a8244e792ba4f20f33fca9
+  - enabled: 1
+    path: Assets/Scenes/28 Deliberate.unity
+    guid: c64d4d6984b334b95a23a1a2a3fc9769
+  - enabled: 0
+    path: Assets/Scenes/29 Role Reveal Screen.unity
+    guid: f811a404c016741628842f366e5f182b
+  m_configObjects: {}
